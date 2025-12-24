@@ -4,7 +4,7 @@
 Nama    : I Putu Dirga Bramesta Wijana    
 Prodi   : S1 Teknologi Informasi
 
-Nama    : Zaguna Tora Daivra
+Nama    : Zaguna Tora Daivra    
 Prodi   : S1 Teknologi Informasi
 
 Program ini mengimplementasikan struktur data Multi Linked List
